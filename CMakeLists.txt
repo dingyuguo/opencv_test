@@ -16,5 +16,3 @@ add_subdirectory(${ROOT_DIR}/src)
 SET(CMAKE_CXX_FLAGS_DEBUG "$ENV{CXX_FLAGS} -O0 -Wall -g -ggdb")
 
 
-
-
